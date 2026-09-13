@@ -100,7 +100,7 @@ const BOT_CONFIGS = {
         thinkMs: 1300,
         randomChance: 0,
         stockfishRequired: true,
-        engineFlavor: "full"
+        engineFlavor: "lite"
     },
     elite3000: {
         name: "Elite",
@@ -109,7 +109,7 @@ const BOT_CONFIGS = {
         thinkMs: 2200,
         randomChance: 0,
         stockfishRequired: true,
-        engineFlavor: "full"
+        engineFlavor: "lite"
     }
 };
 
